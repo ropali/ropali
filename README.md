@@ -8,7 +8,7 @@
 
 💡 &nbsp;I am Python Engineer & like to explore new technologies and develop software solutions.\
 🔭 At day I build web applications and at night I work on something which I like 😉.\
-✍️ &nbsp;I'm currently learning and exploring the realm of Machine Learnin & AI in general.
+✍️ &nbsp;I'm currently learning and exploring the realm of Machine Learning & AI in general.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
