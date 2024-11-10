@@ -93,7 +93,9 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [Dockyard](https://github.com/ropali)<br><br>- 🌱 I’m currently learning **Rust, Distrubuted Systems & Database Internals**<br><br>- 💬 Ask me about **Python, Backend engineering & databases**</p>
+- 🔭 I’m currently working on [Dockyard](https://github.com/ropali)<br>
+- 🌱 I’m currently learning **Rust, Distrubuted Systems & Database Internals**<br>
+- 💬 Ask me about **Python, Backend engineering & databases**
 
 ###
 
