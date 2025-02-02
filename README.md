@@ -93,7 +93,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Dockyard](https://github.com/ropali)<br>
+- 🔭 I’m currently working on [Dockyard](https://github.com/ropali/dockyard)<br>
 - 🌱 I’m currently learning **Rust, Distrubuted Systems & Database Internals**<br>
 - 💬 Ask me about **Python, Backend engineering & databases**
 
