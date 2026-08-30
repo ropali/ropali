@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a Backend Engineer with nearly six years of experience, passionate about turning complex challenges into simple, effective solutions. I have a deep love for new technologies, especially in distributed systems and cloud computing, where I’m constantly pushing my boundaries. Currently, I’m building tools like Dockyard, a desktop client for Docker management, and experimenting with Rust and Tauri to create fast, efficient applications. My goal is to create software that makes a difference and empowers users worldwide. Let’s connect!</p>
+<p align="left">I’m a Backend Engineer with nearly 8 years of experience, passionate about turning complex challenges into simple, effective solutions. I have a deep love for new technologies, especially in distributed systems and cloud computing, where I’m constantly pushing my boundaries. Currently, I’m building tools like Dockyard, a desktop client for Docker management, and experimenting with Rust and Tauri to create fast, efficient applications. My goal is to create software that makes a difference and empowers users worldwide. Let’s connect!</p>
 
 ###
 
